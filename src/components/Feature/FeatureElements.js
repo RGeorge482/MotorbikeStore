@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-// import FeaturePic from '../../images/featured3.jpg';
 import motor5 from '../../images/m5a.png';
 
 
