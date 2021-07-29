@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import { NavLink as Link } from 'react-router-dom';
-// import { FaPizzaSlice } from 'react-icons/fa';
 import { FaMotorcycle } from 'react-icons/fa';
 
 export const Nav = styled.nav`
