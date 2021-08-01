@@ -1,3 +1,6 @@
+This is a e-commerce where users can shop for bikes, clothing, helmets, or accessories. The project is built in React.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
