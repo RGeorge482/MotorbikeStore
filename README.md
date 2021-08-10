@@ -1,5 +1,5 @@
-This is a e-commerce where users can shop for bikes, clothing, helmets, or accessories. The project is built in React.
-
+This is a e-commerce where users can shop for bikes, clothing, helmets, or accessories. The project is built in React
+React.
 
 # Getting Started with Create React App
 
