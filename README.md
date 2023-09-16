@@ -1,4 +1,4 @@
-This is a e-commerce where users can shop for bikes, clothing, helmets, or accessories. The project is built in React.
+ This project is built in React.
 
 ![motor1](https://user-images.githubusercontent.com/69143183/127780453-dbd0048d-6e44-4059-9caf-c9bbbcc4535c.jpg)
 ![motor2](https://user-images.githubusercontent.com/69143183/127780456-d3e81182-144d-4166-8b8b-f0ff962c4bac.jpg)
